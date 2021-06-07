@@ -1,0 +1,29 @@
+div{
+  margin: 0;
+  padding:0;
+}
+
+a:link {
+  text-decoration: none;
+  color: white !important;
+
+}
+
+a:hover {
+
+  color: orange;
+}
+
+ul{
+
+  margin-left: 25px;
+    margin-top: 42px;
+    margin: 33px 0 23px;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+li{
+
+
+}
